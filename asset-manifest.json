@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/malaphor/static/css/main.b5b5b516.css",
+    "main.js": "/malaphor/static/js/main.03aba6b5.js",
+    "static/js/787.c6fa7159.chunk.js": "/malaphor/static/js/787.c6fa7159.chunk.js",
+    "index.html": "/malaphor/index.html",
+    "main.b5b5b516.css.map": "/malaphor/static/css/main.b5b5b516.css.map",
+    "main.03aba6b5.js.map": "/malaphor/static/js/main.03aba6b5.js.map",
+    "787.c6fa7159.chunk.js.map": "/malaphor/static/js/787.c6fa7159.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5b5b516.css",
+    "static/js/main.03aba6b5.js"
+  ]
+}
