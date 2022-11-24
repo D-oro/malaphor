@@ -1,38 +1,125 @@
 .App {
   text-align: center;
+  background-color: #cbebf7;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: LARGE;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.content{
+  height: 95vh;
+  width: 90vw;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.idioms{
+  height: 50%;
+  width: 100%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.list{
+  background-color: #D18D96;
+  height: 45%;
+  width: 80%;
+  padding: 3%;
+  border-width: 2.5px;
+  border-color: lightgray;
+  border-style: solid;
+}
+
+.section1{
+  background-color: lightcyan;
+  height: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2%;
+  border-width: 2.5px;
+  border-color: lightgray;
+  border-style: solid;
+}
+
+.section2{
+  height: 60%;
+  width: 50%;
+}
+.section3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #FCDCA9;
+  height: 60%;
+  width: 50%;
+  border-width: 2.5px;
+  border-color: lightgray;
+  border-style: solid;
+}
+
+.idiom-header{
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  text-align: left;
+}
+.malaphor-button{
+  margin: 10px;
+}
+
+button{
+  height: 35px;
+  width: 100px;
+}
+
+.malaphor{
+  height: 10%;
+  width: 70%;
+}
+
+ul{
+  text-align: left;
+}
+
+li{
+  line-height: 1.5;
+}
+
+li:hover{
+  background-color: #A1DBF1;
+}
+
+.firstIdiomWords, .secondIdiomWords{
+  display: inline;
+  float:left;
+  padding: 1%;
+}
+
+.firstIdiomWords{
+  background-color: #7CD2B3;
+}
+
+.firstIdiomWords:hover{
+  background-color:#bee9d9;
+}
+
+.secondIdiomWords{
+  background-color: #A1DBF1;
+}
+
+.secondIdiomWords:hover{
+  background-color: #cbebf7;
+}
+
+.idioms-header{
+  display: flex;
+  flex-direction: row;
+}
+
+h2{
+  font-size: medium;
 }
