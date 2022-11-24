@@ -165,7 +165,7 @@ function App() {
   return (
     <div className="App">
       <div className="content">
-          <h1>malaphor generator</h1>
+          <h1>malaphor creation tool</h1>
           <Select listItems={listItems}/>
 
       </div>
