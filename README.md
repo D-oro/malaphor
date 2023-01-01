@@ -1,3 +1,6 @@
+# Visit the malaphor generator here:
+https://d-oro.github.io/malaphor/ 
+
 # Idioms, expressions, and proverbs from:
 https://www.ef.co.uk/english-resources/english-idioms/ 
 
