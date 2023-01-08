@@ -4,6 +4,9 @@ https://d-oro.github.io/malaphor/
 # Idioms, expressions, and proverbs from:
 https://www.ef.co.uk/english-resources/english-idioms/ 
 
+### installations
+- npm install cors --save
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
