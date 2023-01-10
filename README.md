@@ -1,11 +1,12 @@
 # Visit the malaphor generator here:
 https://d-oro.github.io/malaphor/ 
 
+## idiom api:
+https://d-oro.github.io/idioms_API/idioms_API.json 
+
 # Idioms, expressions, and proverbs from:
 https://www.ef.co.uk/english-resources/english-idioms/ 
 
-### installations
-- npm install cors --save
 
 # Getting Started with Create React App
 
